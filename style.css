@@ -3,7 +3,8 @@
     src: url(MyriadProRegular.woff);
 }
 body {
-	background: #ffffff url("headerbackground.jpg") top repeat-x;
+	background: #ffffff url("headerbackground.jpg") top no-repeat;
+	background-size: 100% 579px;
 	margin: 0 auto;
 	font-family: "Myriad Pro";
 	font-weight: 400;
